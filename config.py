@@ -60,7 +60,7 @@ https://dashboard.shareus.io/
 # TRUE for yes FALSE if no 
 USE_SHORTLINK = True if os.environ.get('USE_SHORTLINK', "FALSE") == "TRUE" else False 
 # only shareus service known rightnow rest you can test on your own
-SHORTLINK_API_URL = os.environ.get("SHORTLINK_API_URL", "api.shareus.io")
+SHORTLINK_API_URL = os.environ.get("SHORTLINK_API_URL", "kingurl.in")
 # SHORTLINK_API_KEY = os.environ.get("SHORTLINK_API_KEY", "")
 #use this key if not working ☠️ (jokin!!)
 SHORTLINK_API_KEY = os.environ.get("SHORTLINK_API_KEY", "cdbd1f7f9d7075a6543cf022f6b1b0377a543a0d")
@@ -75,29 +75,29 @@ TUT_VID = os.environ.get("TUT_VID","https://t.me/tutorialtoopenlink/2")
 #put TRUE if you want this feature
 USE_PAYMENT = True if (os.environ.get("USE_PAYMENT", "FALSE") == "TRUE") & (USE_SHORTLINK) else False
 #UPI ID
-UPI_ID = os.environ.get("UPI_ID", " ")
+UPI_ID = os.environ.get("UPI_ID", "8708254165@idfcfirst")
 #UPI QR CODE IMAGE
-UPI_IMAGE_URL = os.environ.get("UPI_IMAGE_URL", "")
+UPI_IMAGE_URL = os.environ.get("UPI_IMAGE_URL", "https://t.me/c/2164083331/3")
 #SCREENSHOT URL of ADMIN for verification of payments
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", "")
 #Time and its price
-#7 Days
-PRICE1 = os.environ.get("PRICE1", "30 rs")
-#1 Month
-PRICE2 = os.environ.get("PRICE2", "110 rs")
-#3 Month
-PRICE3 = os.environ.get("PRICE3", "299 rs")
-#6 Month
-PRICE4 = os.environ.get("PRICE4", "550 rs")
-#1 Year
-PRICE5 = os.environ.get("PRICE5", "999 rs")
+#Lifetime
+PRICE1 = os.environ.get("pedomomforeign", "149 rs")
+#Lifetime
+PRICE2 = os.environ.get("indian mom son", "199 rs")
+#Lifetime
+PRICE3 = os.environ.get("blackmailing to do something dirty", "199 rs")
+#Lifetime
+PRICE4 = os.environ.get("cipi of all kind", "149 rs")
+#Lifetime
+PRICE5 = os.environ.get("brother sister", "149 rs")
 
 
 
 #force message for joining the channel
 FORCE_MSG = os.environ.get("FORCE_MSG", "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b> 🥺")
 #custom caption 
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", join our main posting channel https://t.me/+AQtbqC7wtL0zZjRl)
 #protected content so that no files can be sent from the bot to anyone. recommended False
 # TRUE for yes FALSE if no
 PROTECT_CONTENT = True if os.environ.get("PROTECT_CONTENT", "FALSE") == "TRUE" else False
