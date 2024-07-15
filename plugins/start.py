@@ -125,7 +125,7 @@ async def start_command(client: Client, message: Message):
             [ [
                     InlineKeyboardButton( "ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url = "https://t.me/+3meWpN3XEjc3MTI1" ),
                     InlineKeyboardButton("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url = "https://t.me/+nrNgQ7sT3XQxZTc1")
-                ], [ InlineKeyboardButton("ᴡᴀᴛᴄʜ 𝟷𝟾+ sʜᴏʀᴛs ᴠɪᴅᴇᴏs", url = "https://t.me/+pR-M-md89O85YzQ9") ],
+                ], [ InlineKeyboardButton("ᴡᴀᴛᴄʜ 𝟷𝟾+ sʜᴏʀᴛs ᴠɪᴅᴇᴏs", url = "https://t.me/UnseenRobot/shorts") ],
                 [
                     InlineKeyboardButton("🤖 ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
                     InlineKeyboardButton("🔒 ᴄʟᴏsᴇ", callback_data = "close")
