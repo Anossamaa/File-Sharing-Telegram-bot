@@ -79,8 +79,7 @@ UPI_ID = os.environ.get("UPI_ID", " samiepatel8@oksbi ")
 #UPI QR CODE IMAGE
 UPI_IMAGE_URL = os.environ.get("UPI_IMAGE_URL", "https://t.me/qrscannerforpayment")
 #SCREENSHOT URL of ADMIN for verification of payments
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", "http://t.me/Screenshotsverifybot
-admin id @heavenwaala1")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", "http://t.me/Screenshotsverifybot")
 
 #Time and its price
 #Lifetime 
