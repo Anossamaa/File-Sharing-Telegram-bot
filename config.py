@@ -82,15 +82,15 @@ UPI_IMAGE_URL = os.environ.get("UPI_IMAGE_URL", "https://t.me/qrscannerforpaymen
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", "http://t.me/Screenshotsverifybot")
 
 #Time and its price
-#Lifetime 
+#LIFETIME
 PRICE1 = os.environ.get("Mom son Indian and foreign", "199 rs")
-#Lifetime 
+#LIFETIME
 PRICE2 = os.environ.get("Brother sister real indian and foreign", "199 rs")
-#Lifetime
-PRICE3 = os.environ.get("Blackmail snapgod dirty 😝", "199 rs")
-#Lifetime
+#LIFETIME
+PRICE3 = os.environ.get("Blackmail snapgod dirty", "199 rs")
+#LIFETIME
 PRICE4 = os.environ.get("Force r@pe and torture all type", "199 rs")
-#Lifetime
+#LIFETIME
 PRICE5 = os.environ.get("Cimpi all kind all age chick", "149 rs")
 
 
